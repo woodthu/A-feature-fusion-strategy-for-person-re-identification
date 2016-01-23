@@ -10,6 +10,9 @@ Public person re-identification datasets.
 #KISSME
 Original KISSME code. Details in https://lrs.icg.tugraz.at/research/kissme/
 
+#Results
+CMC curves on different datasets.
+
 #Referencecs
 [1] Van de Weijer, J., Schmid, C., “Applying Color Names to Image Description,” in Proc. ICIP. 2007.                     
 
